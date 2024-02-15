@@ -1,0 +1,12 @@
+{
+    "hooks": [
+        {
+            "name": "dw.order.calculate",
+            "script": "./cartridge/scripts/hooks/cart/calculate.js"
+        },
+        {
+            "name": "custom.hook",
+            "script": "./cartridge/scripts/hooks/custom.js"
+        }
+    ]
+}

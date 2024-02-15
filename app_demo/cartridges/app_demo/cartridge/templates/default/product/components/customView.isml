@@ -1,0 +1,4 @@
+<a href="${URLUtils.url('Product-Show', 'pid', product.id, 'custom', 'true')}" title="${Resource.msg('label.custompdp.link','product', null)}">
+    ${Resource.msg('label.custompdp.link','product', null)}
+</a>
+<div class="size-chart-collapsible"></div>

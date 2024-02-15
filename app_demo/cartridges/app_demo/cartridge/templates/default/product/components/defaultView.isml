@@ -1,0 +1,7 @@
+<a href="${URLUtils.url('Product-Show', 'pid', product.id)}" title="${Resource.msg('label.regularpdp.link','product', null)}">
+    ${Resource.msg('label.regularpdp.link','product', null)}
+</a>
+<a href="${URLUtils.url('Test-Show', 'pid', product.id)}" title="Test">
+    Test
+</a>
+<div class="size-chart-collapsible"></div>
